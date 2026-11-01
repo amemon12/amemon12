@@ -1,4 +1,4 @@
-# Computer Science @ UW
+# Azim Memon
 
 I'm a computer science student at UW interested in backend engineering,
 distributed systems, and building useful applications with AI.
@@ -6,8 +6,6 @@ distributed systems, and building useful applications with AI.
 My projects explore distributed model inference, voice-driven interfaces,
 and automated research workflows. I focus on understanding how systems
 behave, testing failure cases, and documenting their tradeoffs.
-
-I'm currently seeking software engineering internships.
 
 ## Selected projects
 
